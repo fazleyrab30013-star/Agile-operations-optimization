@@ -1,0 +1,5 @@
+Sprint_ID,Sprint_Goal,Before_TAT_Days,After_TAT_Days,Efficiency_Gain_Percent,Primary_Bottleneck
+Sprint_0,Baseline Mapping,10.0,10.0,0%,Manual Document Verification Lags
+Sprint_1,Automating B2B Verification,10.0,9.2,8%,Data Validation Overhead
+Sprint_2,Cross-Dept SLA Alignment,9.2,8.7,5%,Sequential Approval Traps
+Sprint_3,Automated Approval Routing,8.7,8.4,3%,Delayed Operational Sign-offs
